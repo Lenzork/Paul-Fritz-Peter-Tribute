@@ -7,7 +7,11 @@
     border-radius: 25px;
     margin-left: 25%;
     margin-right: 25%;*/
-    text-shadow: 4px 1px 33px rgba(248,255,0,1);
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+    background: #333333;
 }
 
 .bild-pfp {
