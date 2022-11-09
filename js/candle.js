@@ -63,6 +63,7 @@ class candle
                 }
             }
         } else {
+            // Setze die Kerzenreihenfolge zurück!
             kerzenReihenfolge = [kerze1, kerze5, kerze4, kerze3, kerze3];
         }
     }
