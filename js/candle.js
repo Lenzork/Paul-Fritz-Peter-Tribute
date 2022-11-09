@@ -61,10 +61,10 @@ class candle
                     bild.style.width = '10000px';
                     bild.src = "https://i.ibb.co/rtDN6WS/DARK.png";
                 }
+            } else {
+                // Setze die Kerzenreihenfolge zurück!
+                kerzenReihenfolge = [kerze1, kerze5, kerze4, kerze3, kerze3];
             }
-        } else {
-            // Setze die Kerzenreihenfolge zurück!
-            kerzenReihenfolge = [kerze1, kerze5, kerze4, kerze3, kerze3];
         }
     }
 }
